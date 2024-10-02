@@ -12,3 +12,4 @@ Here are some of the projects that you can actively make contributions to this m
 7. Auth0 - [https://auth0.com/blog/amp/announcing-authtoberfest-2024/](https://auth0.com/blog/amp/announcing-authtoberfest-2024/)
 8. more - https://dev.to/jaysaadana/top-hacktoberfest-projects-to-contribute-to-in-2024-1811
 9. AppWrite - https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024
+10. hiero.org - https://hiero.org/hacktoberfest/
